@@ -47,9 +47,11 @@ The system comprises:
 8. **Power Supply**: Hondas 12-0-12 500mA transformer provides 12V DC.
 
 ### Hardware Visuals
-- Block Diagram: 
+- Block Diagram:
+  
   ![Output](screenshots/three1.jpg)
 - Setup Images:
+  
   ![Output](screenshots/three2.jpg)
   ![Output](screenshots/three3.jpg)
   
@@ -95,7 +97,8 @@ The system comprises:
   - Blynk notifications to your device.
 
 ### IoT Visuals
-- Blynk Interface: 
+- Blynk Interface:
+  
   ![Output](screenshots/three4.jpg)
   ![Output](screenshots/three5.jpg)
 
