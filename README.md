@@ -48,10 +48,10 @@ The system comprises:
 
 ### Hardware Visuals
 - Block Diagram: 
-  ![Output](screenshot/three1.jpg)
+  ![Output](screenshots/three1.jpg)
 - Setup Images:
-  ![Output](screenshot/three2.jpg)
-  ![Output](screenshot/three3.jpg)
+  ![Output](screenshots/three2.jpg)
+  ![Output](screenshots/three3.jpg)
   
 ## Software Components
 
@@ -96,8 +96,8 @@ The system comprises:
 
 ### IoT Visuals
 - Blynk Interface: 
-  ![Output](screenshot/three4.jpg)
-  ![Output](screenshot/three5.jpg)
+  ![Output](screenshots/three4.jpg)
+  ![Output](screenshots/three5.jpg)
 
 ## Notes
 
